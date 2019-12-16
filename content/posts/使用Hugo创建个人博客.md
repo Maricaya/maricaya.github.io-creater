@@ -64,6 +64,7 @@ echo 'theme = "ananke"' >> config.toml
 ## 四、开始写第一篇博客吧
 ```bash
 hugo new posts/我的第一篇博客.md
+hugo new posts/我的第一篇博客.md
 ```
 打开`xxx.github.io-creater` 文件夹，`content/posts/我的第一篇博客.md` 就是第一篇博客的位置。
 这是文章的初始化内容:
