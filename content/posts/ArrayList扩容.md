@@ -1,7 +1,7 @@
 ---
 title: "初识Collection体系-ArrayList的扩容机制jdk8"
 date: 2019-12-16T17:00:30+08:00
-draft: true
+draft: false
 ---
 
 请写一篇博客，总结一下你在Collection体系中学到的知识，例如可以是：
