@@ -1,20 +1,9 @@
 ---
-title: "初识Collection体系-ArrayList的扩容机制jdk8"
+title: "ArrayList的扩容机制(jdk8)"
 date: 2019-12-16T17:00:30+08:00
 draft: false
 ---
 
-请写一篇博客，总结一下你在Collection体系中学到的知识，例如可以是：
-
-Collection体系的常用类及其背后的数据结构
-Collection体系的常用类及其背后的数据结构对比
-ArrayList源码阅读
-ArrayList是如何扩容的？
-HashMap源码阅读
-HashMap是如何扩容的？
-HashMap从Java7到Java8发生了哪些变化？
-为什么HashMap不是线程安全的？
-----------------------------------
 想了解ArrayList的动态扩容机制，最好的方式是阅读源码。
 
 ## ArrayList的构造方法 - 有初始容量
