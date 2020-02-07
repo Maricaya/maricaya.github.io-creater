@@ -1,7 +1,7 @@
 ---
 title: "ArrayList的扩容机制(jdk8)"
 date: 2019-12-16T17:00:30+08:00
-draft: true
+draft: false
 ---
 
 想了解ArrayList的动态扩容机制，最好的方式是阅读源码。
